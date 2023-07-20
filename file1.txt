@@ -1,0 +1,3 @@
+this is my first git 
+file to be added in staging area
+then to be commited later
